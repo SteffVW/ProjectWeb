@@ -1,0 +1,118 @@
+[
+    {
+        "uniqueId": "EXP-TOR-001",
+        "elementType": "Explosive",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/explosive.png",
+        "manufacturer": "Torgue",
+        "levelRequirement": 50,
+        "uniqueText": "Flak the world.",
+        "locationFound": "Drop from The Warrior / Torgue vending maschines",
+        "eridiumCost": 0,
+        "inBaseGame": "true"
+    },
+    {
+        "uniqueId": "EXP-TOR-002",
+        "elementType": "Explosive",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/explosive.png",
+        "manufacturer": "Torgue",
+        "levelRequirement": 5,
+        "uniqueText": "Did I fire six shots, or only five? Three? Seven. Whatever.",
+        "locationFound": "Drop from Savage Lee / Torgue vending maschines",
+        "eridiumCost": 0,
+        "inBaseGame": "true"
+    },
+    {
+        "uniqueId": "FIR-DAH-001",
+        "elementType": "Fire",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/fire.png",
+        "manufacturer": "Dahl",
+        "levelRequirement": 15,
+        "uniqueText": "Some like it hot",
+        "locationFound": "Drop from Scraptrap prime / World",
+        "eridiumCost": 0,
+        "inBaseGame": "false"
+    },
+    {
+        "uniqueId": "ELE-ATL-001",
+        "elementType": "Electric",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/shock.png",
+        "manufacturer": "Atlas",
+        "levelRequirement": 34,
+        "uniqueText": "Your Life Is Mine",
+        "locationFound": "Drop from Badass defender / World",
+        "eridiumCost": 22,
+        "inBaseGame": "false"
+    },
+    {
+        "uniqueId": "NON-JAC-001",
+        "elementType": "None",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/none.png",
+        "manufacturer": "Jackobs",
+        "levelRequirement": 44,
+        "uniqueText": "offers an unparalleled blend of power and precision",
+        "locationFound": "Drop from The bushwacker",
+        "eridiumCost": 10,
+        "inBaseGame": "true"
+    },
+    {
+        "uniqueId": "NON-BAN-001",
+        "elementType": "None",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/none.png",
+        "manufacturer": "Bandit",
+        "levelRequirement": 44,
+        "uniqueText": "Cannot stop shooooooooting",
+        "locationFound": "Drop from Bandit commander Julius",
+        "eridiumCost": 55,
+        "inBaseGame": "false"
+    },
+    {
+        "uniqueId": "EXP-TOR-003",
+        "elementType": "Explosive",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/explosive.png",
+        "manufacturer": "Torgue",
+        "levelRequirement": 61,
+        "uniqueText": "For hate's sake.",
+        "locationFound": "Drop from Master Gee / Seraph shop",
+        "eridiumCost": 200,
+        "inBaseGame": "false"
+    },
+    {
+        "uniqueId": "COR-TED-001",
+        "elementType": "Corrosive",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/corrosive.png",
+        "manufacturer": "Tediore",
+        "levelRequirement": 23,
+        "uniqueText": "Give it a burl.",
+        "locationFound": "Drop from Master Gee / Rakkman",
+        "eridiumCost": 10,
+        "inBaseGame": "true"
+    },
+    {
+        "uniqueId": "SLA-VLA-001",
+        "elementType": "Slag",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/slag.png",
+        "manufacturer": "Vladof",
+        "levelRequirement": 71,
+        "uniqueText": "What play thing can you offer me today?",
+        "locationFound": "Drop from The bad one",
+        "eridiumCost": 0,
+        "inBaseGame": "true"
+    },
+    {
+        "uniqueId": "SLA-MAL-001",
+        "elementType": "Slag",
+        "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/slag.png",
+        "manufacturer": "Maliwan",
+        "levelRequirement": 50,
+        "uniqueText": "Double trouble.",
+        "locationFound": "Drop from Master Gee / Seraph shop",
+        "eridiumCost": 500,
+        "inBaseGame": "false"
+    },
+    {
+        "img-sources": [
+            "https://www.lootlemon.com",
+            "bing copilot"
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "id": "GUN-001",
+        "name": "Flakker",
+        "effect": "the Flakker fires 3 (5) invisible projectiles that, after a short delay, each initiate a chain of 6 nearby explosions, all dealing Explosive Bullet Damage.",
+        "FoundInBorderlands": 2,
+        "isUnique": true,
+        "madeIn": "2987-03-14",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/flakker.png",
+        "rarity": "Legendary",
+        "type": "Shotgun",
+        "variants": [
+            "Casual",
+            "Juicy",
+            "Sinewy",
+            "Desperate"
+        ]
+    },
+    {
+        "id": "GUN-002",
+        "name": "Unkempt Harold",
+        "effect": "All bullets explode on impact, dealing 100% Explosive Damage on direct hits. The main explosion deals 100%, while the extra explosions deal 70% Explosive Grenade Damage in an area.",
+        "FoundInBorderlands": 2,
+        "isUnique": true,
+        "madeIn": "2985-05-23",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/harold.png",
+        "rarity": "Legendary",
+        "type": "Pistol",
+        "variants": [
+            "Stiff",
+            "Double penetrating",
+            "Intense",
+            "hard"
+        ]
+    },
+    {
+        "id": "GUN-003",
+        "name": "Boomer",
+        "effect": "Shoots Bullets that explode on impact and deal Physical Splash Damage.",
+        "FoundInBorderlands": 3,
+        "isUnique": true,
+        "madeIn": "3001-07-11",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/boomer.png",
+        "rarity": "Legendary",
+        "type": "Smg",
+        "variants": [
+            "Searing",
+            "Hot",
+            "Flamable",
+            "Extra"
+        ]
+    },
+    {
+        "id": "GUN-004",
+        "name": "Aries",
+        "effect": "Dealing direct health damage creates 1 to 3 slow transfusion orbs that home in on you.",
+        "FoundInBorderlands": 1,
+        "isUnique": true,
+        "madeIn": "2911-01-22",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/aries.png",
+        "rarity": "Pearlescent",
+        "type": "Revolver",
+        "variants": [
+            "Prime",
+            "Accurate",
+            "FMJ",
+            "Slow"
+        ]
+    },
+    {
+        "id": "GUN-005",
+        "name": "Bushwack",
+        "effect": "The Bushwack is a Jakobs' triple barreled shotgun possessing very high damage and pellet count at the cost of very low accuracy",
+        "FoundInBorderlands": 2,
+        "isUnique": false,
+        "madeIn": "2955-04-18",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/bushwack.png",
+        "rarity": "Rare",
+        "type": "Shotgun",
+        "variants": [
+            "Texas",
+            "Rootin",
+            "Fast",
+            "Powerhouse"
+        ]
+    },
+    {
+        "id": "GUN-006",
+        "name": "BLASSter",
+        "effect": "Shoots uncontrolable eridium pellets out of it's barrel while increasing the rate of fire with every shot.",
+        "FoundInBorderlands": 3,
+        "isUnique": false,
+        "madeIn": "2957-08-2",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/blassster.png",
+        "rarity": "Epic",
+        "type": "Assault rifle",
+        "variants": [
+            "Rapyd",
+            "Stinkin",
+            "Savvaghe",
+            "Buszing"
+        ]
+    },
+    {
+        "id": "GUN-007",
+        "name": "Ahab",
+        "effect": "Shoots a Harpoon in an arching trajectory. The Harpoon explodes on enemy impact or after 1.5 sec on surface impact.",
+        "FoundInBorderlands": 1,
+        "isUnique": true,
+        "madeIn": "2956-09-13",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/ahab.png",
+        "rarity": "Seraph",
+        "type": "Launcher",
+        "variants": [
+            "Explosive",
+            "Piercing",
+            "Ultra",
+            "Zooming"
+        ]
+    },
+    {
+        "id": "GUN-008",
+        "name": "Gunerang",
+        "effect": "The Gunerang is thrown away with every Reload while a new clone digistructs in your hands.",
+        "FoundInBorderlands": 3,
+        "isUnique": false,
+        "madeIn": "2956-11-02",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/gunerang.png",
+        "rarity": "Common",
+        "type": "Pistol",
+        "variants": [
+            "Zippin",
+            "Flying",
+            "Exploding",
+            "Returning"
+        ]
+    },
+    {
+        "id": "GUN-009",
+        "name": "Hail",
+        "effect": "Shoots Bullets in an arching trajectory that split into 2 at a set distance.",
+        "FoundInBorderlands": 2,
+        "isUnique": true,
+        "madeIn": "2957-12-15",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/hail.png",
+        "rarity": "Rare",
+        "type": "Assault rifle",
+        "variants": [
+            "Floating",
+            "Dropping",
+            "New",
+            "Broken"
+        ]
+    },
+    {
+        "id": "GUN-010",
+        "name": "Florentine",
+        "effect": "The Florentine shoots energy orbs that deal Shock Damage on impact. Additionally, the energy orbs explode on impact dealing Slag Splash Damage.",
+        "FoundInBorderlands": 1,
+        "isUnique": false,
+        "madeIn": "2952-12-14",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/florentine.png",
+        "rarity": "Seraph",
+        "type": "Smg",
+        "variants": [
+            "Weak",
+            "Strong",
+            "Laser",
+            "Touring"
+        ]
+    },
+    {
+        "img-sources": [
+            "https://www.lootlemon.com",
+            "bing copilot"
+        ]
+    }
+]
