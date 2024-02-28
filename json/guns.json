@@ -1,0 +1,288 @@
+[
+    {
+        "id": "GUN-001",
+        "name": "Flakker",
+        "effect": "the Flakker fires 3 (5) invisible projectiles that, after a short delay, each initiate a chain of 6 nearby explosions, all dealing Explosive Bullet Damage.",
+        "FoundInBorderlands": 2,
+        "isUnique": true,
+        "madeIn": "2987-03-14",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/flakker.png",
+        "rarity": "Legendary",
+        "type": "Shotgun",
+        "variants": [
+            "Casual",
+            "Juicy",
+            "Sinewy",
+            "Desperate"
+        ],
+        "gunInfo": {
+            "uniqueId": "EXP-TOR-001",
+            "elementType": "Explosive",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/explosive.png",
+            "manufacturer": "Torgue",
+            "levelRequirement": 50,
+            "uniqueText": "Flak the world.",
+            "locationFound": "Drop from The Warrior / Torgue vending maschines",
+            "eridiumCost": 0,
+            "inBaseGame": true
+        }
+    },
+    {
+        "id": "GUN-002",
+        "name": "Unkempt Harold",
+        "effect": "All bullets explode on impact, dealing 100% Explosive Damage on direct hits. The main explosion deals 100%, while the extra explosions deal 70% Explosive Grenade Damage in an area.",
+        "FoundInBorderlands": 2,
+        "isUnique": true,
+        "madeIn": "2985-05-23",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/harold.png",
+        "rarity": "Legendary",
+        "type": "Pistol",
+        "variants": [
+            "Stiff",
+            "Double penetrating",
+            "Intense",
+            "hard"
+        ],
+        "gunInfo": {
+            "uniqueId": "EXP-TOR-002",
+            "elementType": "Explosive",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/explosive.png",
+            "manufacturer": "Torgue",
+            "levelRequirement": 5,
+            "uniqueText": "Did I fire six shots, or only five? Three? Seven. Whatever.",
+            "locationFound": "Drop from Savage Lee / Torgue vending maschines",
+            "eridiumCost": 0,
+            "inBaseGame": true
+        }
+    },
+    {
+        "id": "GUN-003",
+        "name": "Boomer",
+        "effect": "Shoots Bullets that explode on impact and deal Physical Splash Damage.",
+        "FoundInBorderlands": 3,
+        "isUnique": true,
+        "madeIn": "3001-07-11",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/boomer.png",
+        "rarity": "Legendary",
+        "type": "Smg",
+        "variants": [
+            "Searing",
+            "Hot",
+            "Flamable",
+            "Extra"
+        ],
+        "gunInfo": {
+            "uniqueId": "FIR-DAH-001",
+            "elementType": "Fire",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/fire.png",
+            "manufacturer": "Dahl",
+            "levelRequirement": 15,
+            "uniqueText": "Some like it hot",
+            "locationFound": "Drop from Scraptrap prime / World",
+            "eridiumCost": 0,
+            "inBaseGame": false
+        }
+    },
+    {
+        "id": "GUN-004",
+        "name": "Aries",
+        "effect": "Dealing direct health damage creates 1 to 3 slow transfusion orbs that home in on you.",
+        "FoundInBorderlands": 1,
+        "isUnique": true,
+        "madeIn": "2911-01-22",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/aries.png",
+        "rarity": "Pearlescent",
+        "type": "Revolver",
+        "variants": [
+            "Prime",
+            "Accurate",
+            "FMJ",
+            "Slow"
+        ],
+        "gunInfo": {
+            "uniqueId": "ELE-ATL-001",
+            "elementType": "Electric",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/shock.png",
+            "manufacturer": "Atlas",
+            "levelRequirement": 34,
+            "uniqueText": "Your Life Is Mine",
+            "locationFound": "Drop from Badass defender / World",
+            "eridiumCost": 22,
+            "inBaseGame": false
+        }
+    },
+    {
+        "id": "GUN-005",
+        "name": "Bushwack",
+        "effect": "The Bushwack is a Jakobs' triple barreled shotgun possessing very high damage and pellet count at the cost of very low accuracy",
+        "FoundInBorderlands": 2,
+        "isUnique": false,
+        "madeIn": "2955-04-18",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/bushwack.png",
+        "rarity": "Rare",
+        "type": "Shotgun",
+        "variants": [
+            "Texas",
+            "Rootin",
+            "Fast",
+            "Powerhouse"
+        ],
+        "gunInfo": {
+            "uniqueId": "NON-JAC-001",
+            "elementType": "None",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/none.png",
+            "manufacturer": "Jackobs",
+            "levelRequirement": 44,
+            "uniqueText": "offers an unparalleled blend of power and precision",
+            "locationFound": "Drop from The bushwacker",
+            "eridiumCost": 10,
+            "inBaseGame": true
+        }
+    },
+    {
+        "id": "GUN-006",
+        "name": "BLASSter",
+        "effect": "Shoots uncontrolable eridium pellets out of it's barrel while increasing the rate of fire with every shot.",
+        "FoundInBorderlands": 3,
+        "isUnique": false,
+        "madeIn": "2957-08-2",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/blassster.png",
+        "rarity": "Epic",
+        "type": "Assault rifle",
+        "variants": [
+            "Rapyd",
+            "Stinkin",
+            "Savvaghe",
+            "Buszing"
+        ],
+        "gunInfo": {
+            "uniqueId": "NON-BAN-001",
+            "elementType": "None",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/none.png",
+            "manufacturer": "Bandit",
+            "levelRequirement": 44,
+            "uniqueText": "Cannot stop shooooooooting",
+            "locationFound": "Drop from Bandit commander Julius",
+            "eridiumCost": 55,
+            "inBaseGame": false
+        }
+    },
+    {
+        "id": "GUN-007",
+        "name": "Ahab",
+        "effect": "Shoots a Harpoon in an arching trajectory. The Harpoon explodes on enemy impact or after 1.5 sec on surface impact.",
+        "FoundInBorderlands": 1,
+        "isUnique": true,
+        "madeIn": "2956-09-13",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/ahab.png",
+        "rarity": "Seraph",
+        "type": "Launcher",
+        "variants": [
+            "Explosive",
+            "Piercing",
+            "Ultra",
+            "Zooming"
+        ],
+        "gunInfo": {
+            "uniqueId": "EXP-TOR-003",
+            "elementType": "Explosive",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/explosive.png",
+            "manufacturer": "Torgue",
+            "levelRequirement": 61,
+            "uniqueText": "For hate's sake.",
+            "locationFound": "Drop from Master Gee / Seraph shop",
+            "eridiumCost": 200,
+            "inBaseGame": false
+        }
+    },
+    {
+        "id": "GUN-008",
+        "name": "Gunerang",
+        "effect": "The Gunerang is thrown away with every Reload while a new clone digistructs in your hands.",
+        "FoundInBorderlands": 3,
+        "isUnique": false,
+        "madeIn": "2956-11-02",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/gunerang.png",
+        "rarity": "Common",
+        "type": "Pistol",
+        "variants": [
+            "Zippin",
+            "Flying",
+            "Exploding",
+            "Returning"
+        ],
+        "gunInfo": {
+            "uniqueId": "COR-TED-001",
+            "elementType": "Corrosive",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/corrosive.png",
+            "manufacturer": "Tediore",
+            "levelRequirement": 23,
+            "uniqueText": "Give it a burl.",
+            "locationFound": "Drop from Master Gee / Rakkman",
+            "eridiumCost": 10,
+            "inBaseGame": true
+        }
+    },
+    {
+        "id": "GUN-009",
+        "name": "Hail",
+        "effect": "Shoots Bullets in an arching trajectory that split into 2 at a set distance.",
+        "FoundInBorderlands": 2,
+        "isUnique": true,
+        "madeIn": "2957-12-15",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/hail.png",
+        "rarity": "Rare",
+        "type": "Assault rifle",
+        "variants": [
+            "Floating",
+            "Dropping",
+            "New",
+            "Broken"
+        ],
+        "gunInfo": {
+            "uniqueId": "SLA-VLA-001",
+            "elementType": "Slag",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/slag.png",
+            "manufacturer": "Vladof",
+            "levelRequirement": 71,
+            "uniqueText": "What play thing can you offer me today?",
+            "locationFound": "Drop from The bad one",
+            "eridiumCost": 0,
+            "inBaseGame": true
+        }
+    },
+    {
+        "id": "GUN-010",
+        "name": "Florentine",
+        "effect": "The Florentine shoots energy orbs that deal Shock Damage on impact. Additionally, the energy orbs explode on impact dealing Slag Splash Damage.",
+        "FoundInBorderlands": 1,
+        "isUnique": false,
+        "madeIn": "2952-12-14",
+        "img": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/florentine.png",
+        "rarity": "Seraph",
+        "type": "Smg",
+        "variants": [
+            "Weak",
+            "Strong",
+            "Laser",
+            "Touring"
+        ],
+        "gunInfo": {
+            "uniqueId": "SLA-MAL-001",
+            "elementType": "Slag",
+            "elementIcon": "https://raw.githubusercontent.com/SteffVW/ProjectWeb/main/slag.png",
+            "manufacturer": "Maliwan",
+            "levelRequirement": 50,
+            "uniqueText": "Double trouble.",
+            "locationFound": "Drop from Master Gee / Seraph shop",
+            "eridiumCost": 500,
+            "inBaseGame": false
+        }
+    },
+    {
+        "img-sources": [
+            "https://www.lootlemon.com",
+            "bing copilot"
+        ]
+    }
+]
